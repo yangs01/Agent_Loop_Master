@@ -9,3 +9,6 @@ data.db
 .idea/
 .DS_Store
 Thumbs.db
+
+# Local notes / not for upload
+claude-code-原理解析/
